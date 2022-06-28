@@ -1,2 +1,2 @@
 # angry-redpanda
-a small game hoping around
+a small game with a redpanda hoping around
